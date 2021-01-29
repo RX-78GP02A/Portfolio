@@ -899,7 +899,9 @@ input, select, textarea {
 /* Icons */
 
 	.devicon {
-		font-size: 3rem
+		font-size: 2.5rem;
+		position: relative;
+		align-self: center;
 	}
 	  
 	ul.icons {
